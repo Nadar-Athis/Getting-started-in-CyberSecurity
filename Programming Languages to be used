@@ -1,0 +1,74 @@
+So Let's start with programming first....
+What are the Programming skills and languages you should know ???
+So Every Programming language has it's own purpose you can't study all of them but u can !!!
+Even Me too afraid of the same stuff but once I understood the very basic concept of programming I have hardly finished 10-12 languages within a Month ....
+Programming Languages Purpose's:-
+The First Thing I start with is Python...
+Python:-
+It can use useful for creating your own tools even u can see my tools in my github repo's which are built using Python.Python has became a large language due to 
+it's simplicity and other modules.
+What we can do with Python:-
+Tools Creation
+Automation
+Exploit Development
+etc etc
+
+C & C++:-
+The Main purpose of these languages comes under the exploit development and Malware Analysis section of CyberSecurity !!!
+Malware Analysis it's not for beginners coz its complicated too !!
+You Can Study how the exploits are working , How we can create exploits using C and C++
+But we also create it in python ???U can ask me...
+The bitter truth is YES u can create it but most of the exploits are written in C,C++ and Ruby.So I think so U have understood it well !!!
+
+GO:-
+The Main Purpose of these languages is to create viruses and malwares.
+If You masterd go languages you can do a lot of stuff in these field.
+
+RUBY:-
+For exploit development .
+
+BASH SCRIPTING:-
+For writing our own scripts and it is a scripting Language.
+
+ASSEMBLY:-
+For Reverse Engineering , Kernal exploitation and malware analysis.
+
+Debugging :- This is a part where you actually required a lot of knowledge on C !!!Debugging is the process for identifying bugs at kernal level and even deeper.
+coz it's useful for reverse engineering and malware analysis
+You can start debugging by creating simple C programs and there by reversing it and can see how each step and function works
+BEST DEBUGGER FOR MY CASE:- gdb 
+Still there are a lot of debugging tools available which You can explore it 
+
+
+
+WEB APPLICATION SECTION:-
+This is the section where we most of them get started in our cybersec Carrier coz it looks simple and easy(don't be misinformed by watching Youtube Videos)!!!
+It's not like that if you learned sql injection or xss attack , you took a payload from the internet and started testing on websites it's totally Wrong
+First U should understand how webpages and internet Works !!! 
+After That u have to study the Programming Languages for the attacks .... It's not mandatory but if you know the programming languages i can asure that no payload
+is required for the attacks,while u can do it manually because you know that where the flaw may be originated by programming languages LOL !!!
+BE STRONG AT OWASP TOP 10 !!! It is the main heart of web application pentesting ... 
+Studing OWASP Top 10 deeply can make you a good web application pentester but not fully !!! COS web application pentesting is like an OCEAN where we just explore 2-3% 
+of the entire sea..
+You can ask me how??? but that's the reality no one can teach You fully anything even your teachers on a particular thing 
+SOME extra thoughts:-Many of them are just watching a Youtube video on sql injection and directly they ran to test websites for sql injection vulnerabilty ...
+But the Bitter truth is that the complete study of sql injection takes 6 years guys !!! This is not espicially for sql injectiom but for all vulnerabilites 
+The Youtubers just shows the top of any vulnerabilties but when You learn deeper it can take you to several years for the completion !!!
+XSS aka cross site scripting can take upto 4-5 years approx
+So don't be misguided by just watching Youtube ..
+OOPS SORRY !!! i forgot to tell the programming languages ...
+For Common Vulnerabilities in WebApplication Pentesting  
+1)PHP - PHP injection
+2)HTML - HTML injection
+3)sqli - sql injection 
+4)Javascript - xss,csrf, etc etc
+5)json - jsom injectiom
+Still a lot of stuffs are present but these stuffs mainly comes under injection section of OWASP top 10 except xss....
+
+
+SO THAT'S ALL FOR THESE SECTION !!!
+Thanks for reading !!!
+
+
+
+
