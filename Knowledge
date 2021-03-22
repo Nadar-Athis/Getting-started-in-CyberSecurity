@@ -1,0 +1,166 @@
+In this section we just gonna see what are the knowledge's required for this field....
+
+
+#Pentesting:-
+1)NETWORK:-Good knowledge regarding the computer networks and internet,be strong on ports ,firewalls and other stuffs !!!
+Tools:-
+SCanning:-
+1)OPENVAS
+2)METASPLOIT FRAMEWORK
+3)NMAP
+4)PIG
+5)SCAPY 
+etc .
+
+Monitoring and logging:-
+1)JUSTNIFFER
+2)HTTPRY
+3)FIBRATUS
+
+Honey Pot / Honey Net
+1)HONEYPY
+
+Sniffers:-
+1)WIRESHARK
+2)LIVE HTTP HEADER
+
+
+
+2)WEB APPLICATION:-
+A most favourite section for script kiddies hahahahah LOL !!!Be good at OWASP Top 10 and requires porgramming knowledge
+Tools:-
+SCANNING:-
+1)Burpsuite
+2)SQLMAP
+3)NESSUS
+4)NMAP
+5)NIKTO 
+6)NETSPARKER
+7)OPENVAS
+etc 
+
+Practice:-
+1)DVWA
+2)OWASP BROKEN WEB APPLICATION
+3)BWAPP 
+4)XVWA 
+
+3)CLOUD:-
+yet to be studied
+
+4)WEB SERVERS:-
+yet to be studied
+
+5)ANDROID:-
+This requires good knowledge of reverse enginnering and analysing the dex and jar files
+TOOLS:-
+1)DROZER
+2)MOBSF
+3)D2J-DEX2JAR
+4)OBJECTION
+5)JD-GUI
+
+
+API:-
+YET TO BE STUDIED
+
+
+****************************************************************************************************************************************************************************
+
+MALWARE ANALYSIS:-This is an harder section of Cybersecurity where You should need the good knowledge regarding the system internals,assembly,debugging and programming
+Type:-
+1)STATIC:-analysing without executing the malware
+2)DYNAMIC:-analysing the malware while execution
+NOTE:-FOR MALWARE ANALYSIS YOU SHOULD HAVE A SEPERATE ENVIORNMENT BEACUSE IT IS VERY DANGEROUS AT THAT TIME !!!!You should run the virus or malware at a different VM
+And that vm must be cut off with the internet !!!
+EG:-AN ARTICLE FOR SEPERATE VM'S WITH TOOLS FOR MALWARE ANALYSIS
+
+https://github.com/fireeye/flare-vm
+
+Credits:-FireEye
+This vm consist of all tools that are required for an malware analyst 
+
+
+***************************************************************************************************************************************************************************
+REVERSE ENGINEERING:-
+THIS IS VERY LARGE FEILD SO THE BELOW LINK'S CAN HELP YOU !!!
+What is Reverse engineering;-https://www.geeksforgeeks.org/software-engineering-reverse-engineering/
+
+How to get started in reverse engineering??
+https://medium.com/@vignesh4303/reverse-engineering-resources-beginners-to-intermediate-guide-links-f64c207505ed
+https://medium.com/@fahri.shihab/getting-started-with-reverse-engineering-a68a5b8bb6ef
+
+*****************************************************************************************************************************************************************************
+
+CODE AUDITS:
+SOURCES:-
+https://www.tablexi.com/code-audit
+
+SINCE I AM NOT IN THIS FEILD I CAN'T SHARE MORE RESOURCES 
+
+
+******************************************************************************************************************************************************************************
+
+RED TEAMING:-
+What is red teaming??
+A red team may be a contracted external party or an internal group that uses strategies to encourage an outsider perspective...
+Requires good offensive techniques and to know good knowledge regarding red teaming tools....
+Phases:-
+1)Reconnaisance aka information gatherng
+Tools:-
+OPENVAS
+NIKTO
+MALTEGO
+SHODAN
+
+2)Weponization:-Weaponization is the process of building and using tools for attacking a target, by taking into account information gathered 
+from the reconnaisance phase.
+Tools:-
+Metasploit
+Invoke-Obfustication
+Veil
+
+3)Delivery and exploitation:-
+Tools:-
+Gophish
+Hashcat
+BEEF
+
+4)Privilege escalation:-
+Tools:-
+PowerUp
+BeRoot
+
+5)Lateral Movement:-
+One of the phases of the APT(Advance Persistent Threat) life cycle, and it makes its way into red team operations as well.
+Tools:-
+LaZagne
+
+6)Control and Control:-
+Tools:-
+EvilURL
+Empire Project
+
+
+7)Exfiltrate and complete:-
+This is where manipulations of the target system are performed in order to achieve the objective of the operation.
+Tools:-
+Det
+Powershell RAT
+
+
+******************************************************************************************************************************************************************************
+
+Blue Teaming:-The Opposite of red teaming where you have to protect the organization from red teams !!!
+As i am not interested in blue teaming i can only provide the sources....
+SOURCES:-
+https://securitytrails.com/blog/blue-team-tools
+
+*******************************************************************************************************************************************************************************
+
+Further Updates will be Updated soon !!!!
+Thank You for reading this page ....
+
+
+
+
